@@ -15,9 +15,9 @@
         android:layout_centerInParent="true"
         android:layout_marginStart="60dp"
         android:layout_marginEnd="60dp"
+        android:background="@color/darkblue"
         android:text="Iniciar"
-        android:textSize="25sp"
-        android:background="@color/darkblue" />
+        android:textSize="25sp" />
 
     <ImageView
         android:id="@+id/my_image"
